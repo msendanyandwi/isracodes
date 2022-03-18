@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isracodes
-- 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning flutter and laravel
+- 👀 I’m a passionate web and mobile app developer
+- 🌱 I’m a project manager
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me contact@isracodes.com
 
